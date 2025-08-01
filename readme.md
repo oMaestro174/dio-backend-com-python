@@ -26,7 +26,7 @@ Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse 
 
 ## Código-fonte
 
-Veja o código principal em [main.py](./banco.py).
+Veja o código principal em [banco.py](./banco.py).
 
 
 
